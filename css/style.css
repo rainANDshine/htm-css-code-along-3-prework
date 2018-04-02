@@ -25,3 +25,8 @@ figcaption {
   color: white;
   text-shadow: 0 2px 3px #000;
 }
+
+/* ID selector */
+#logo {
+  background: aqua;
+}
