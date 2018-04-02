@@ -31,7 +31,7 @@ figcaption {
   background: aqua;
 }
 
-//* Descendent selector */
+/* Descendent selector */
 #logo h1{
   font-family: 'Clicker Script', cursive;
 }
