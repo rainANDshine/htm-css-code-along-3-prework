@@ -30,3 +30,12 @@ figcaption {
 #logo {
   background: aqua;
 }
+
+//* Descendent selector */
+#logo h1{
+  font-family: 'Clicker Script', cursive;
+}
+
+#logo h2{
+  font-family: 'Clicker Script', cursive;
+}
